@@ -94,7 +94,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 82 | Normalização de dados | ⬜ |
 | 83 | RabbitMQ | ⬜ |
 | 84 | Testes avançados com `pytest` | ⬜ |
-| 85 | Deploy no Heroku | ⬜ |
+| 85 | Deploy | ⬜ |
 | 86 | `ctypes` e funções C | ⬜ |
 | 87 | Asyncio + threads | ⬜ |
 | 88 | Manipular PDFs | ⬜ |
