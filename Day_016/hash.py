@@ -11,8 +11,6 @@ def gerar_hash_sha256(senha):
     hash_hexadecimal = hash_obj.hexdigest()    
     return hash_hexadecimal
 
-
-
 senha_usuario = input("Digite a senha para gerar o hash: ")
 
 if not senha_usuario:
